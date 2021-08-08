@@ -25,3 +25,4 @@ docker-compose down
 - [はじめての Go](https://gihyo.jp/dev/feature/01/go_4beginners)
 
 - [公式 Tutorials](https://golang.org/doc/tutorial/)
+- [A Tour of Go(日本語)](https://go-tour-jp.appspot.com/welcome/1)
